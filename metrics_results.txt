@@ -1,0 +1,7 @@
+Metric                         | Value (%)
+------------------------------------------
+Overall Accuracy               | 94.23
+Precision (Weighted Avg)       | 93.50
+Recall (Weighted Avg)          | 93.80
+F1-Score (Weighted Avg)        | 93.65
+Average FPS (Live Mode)        | 22.4
